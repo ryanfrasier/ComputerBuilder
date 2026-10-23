@@ -1,2 +1,6 @@
+
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Include SQL in GitHub language statistics
+*.sql linguist-language=SQL linguist-detectable=true
